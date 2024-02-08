@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-07T11:52:35 IST" name="Default suite" finished-at="2024-02-07T11:52:58 IST" duration-ms="22552">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T11:52:35 IST" name="Default test" finished-at="2024-02-07T11:52:58 IST" duration-ms="22552">
+      <class name="com.JioMart.Tests.ValidTest">
+        <test-method signature="initiateTest()[pri:1, instance:com.JioMart.Tests.ValidTest@694abbdc]" started-at="2024-02-07T11:52:35 IST" name="initiateTest" finished-at="2024-02-07T11:52:38 IST" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateTest -->
+        <test-method signature="navigateToHomePage()[pri:2, instance:com.JioMart.Tests.ValidTest@694abbdc]" started-at="2024-02-07T11:52:38 IST" name="navigateToHomePage" finished-at="2024-02-07T11:52:47 IST" duration-ms="8421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="navigateToSmartPhonePage()[pri:3, instance:com.JioMart.Tests.ValidTest@694abbdc]" started-at="2024-02-07T11:52:47 IST" name="navigateToSmartPhonePage" finished-at="2024-02-07T11:52:58 IST" duration-ms="11100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToSmartPhonePage -->
+      </class> <!-- com.JioMart.Tests.ValidTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
